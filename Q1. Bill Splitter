@@ -1,0 +1,38 @@
+Q1. Bill Splitter
+Three friends went for dinner. The total bill was ₹1875.
+ Divide the bill equally and calculate how much each one pays.
+
+Q2. Simple Interest Calculator
+Principal = ₹10,000, Rate = 5%, Time = 2 years
+Calculate simple interest using SI = (P * R * T) / 100.
+
+Q3. Minutes to Hours & Minutes
+Convert 135 total minutes into hours and minutes using division and modulus.
+
+
+
+Q1. Exam Pass Criteria
+Marks obtained = 42. Passing marks = 40.
+Check if the student has passed or not using relational operators only.
+
+Q2. Speed Check
+Speed limit is 80 km/h. Vehicle speed is 85 km/h.
+Use relational operators to show if speed is over the limit.
+
+Q3. Battery Level Check
+Battery percentage is 15.
+Check if it's less than or equal to 20 to indicate "Low Battery".
+
+
+
+Q1. Online Class Access
+A student can access an online class only 
+if both isLoggedIn and hasSubscription are true. Use &&.
+
+Q2. Discount Eligibility
+Customer gets discount
+ if age > 60 or total purchase > ₹5000. Use || to evaluate eligibility.
+
+Q3. Login Blocked
+Account is locked if isBlocked is true. 
+Use logical NOT (!) to show access is denied when not blocked.
