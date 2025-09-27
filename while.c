@@ -1,11 +1,13 @@
 #include<stdio.h>
 int main() {
-    int balance = 3000;
+
+    int bal = 3000;
     int ride =1;
 
-    while(balance>=20) {
-        printf("Ride %d completed. Remaning balance %d\n",ride, balance);
-        balance-=20;
+    while(bal>=20) {
+        bal-=20;
+        printf("Ride %d completed. Reamining balance %d\n",ride, bal);
+        
         ride++;
     }
 }
